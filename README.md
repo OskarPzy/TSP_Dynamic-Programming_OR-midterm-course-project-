@@ -16,3 +16,5 @@ Solve TSP using Dynamic Programming in python, for Operations Research course mi
 沈阳市区经纬度:(123.38333,41.80000)
 长春市区经纬度:(125.35000,43.88333)
 哈尔滨市经纬度:(126.63333,45.75000)
+
+Oskar Pang
